@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: employee_source
+    database: OUR_FIRST_DB
+    schema: PUBLIC
+
+    tables:
+      - name: EMPLOYEE_DETAILS
+        identifier: EMPLOYEE_DETAILS
+      - name: SALES 
+        identifier: sales  
